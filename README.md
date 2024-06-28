@@ -4,6 +4,8 @@
 This project, titled "Decoding Enrollment Dynamics: Unveiling Trends and Drivers of Student Matriculation," provides a comprehensive analysis of student enrollment trends and factors influencing matriculation decisions at Albers over the past four years. Our team utilized data analysis and predictive modeling to understand the dynamics of student enrollment and to forecast future enrollment patterns.
 
 ## Key Findings
+Document : https://github.com/Amrapali03/University-predictive-Enrollment-Dynamics-Project/blob/main/Decoding%20Enrollment%20Trends%20for%20Matriculation.pdf
+
 ### Trends
 A general decline in total student enrollment over the past four years, with a notable increase in the number of students deciding against enrollment after initial acceptance.
 Specific programs such as Masters and MBA have seen significant declines, while Certificate programs have maintained relatively steady enrollment numbers.
